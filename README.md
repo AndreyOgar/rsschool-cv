@@ -1,2 +1,2 @@
-# rsschool-cv
-https://AndreyOgar.github.io/rsschool-cv/cv.md
+ # rsschool-cv
+https://AndreyOgar.github.io/rsschool-cv/cv
